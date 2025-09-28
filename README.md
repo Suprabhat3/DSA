@@ -26,5 +26,11 @@
 - **This will not teach you real-world coding,** but you’ll be ready to impress recruiters with “optimized” O(n log n) solutions.  
 - **Side effects** may include: existential dread, coffee addiction, and random nightmares about stack overflows.
 
+## Social Links
+- ## Links
+- [LinkedIn](https://www.linkedin.com/in/suprabhatt/)
+- [Portfolio]([https://your-portfolio-link.com](https://suprabhat.site/))
+- [Twitter/X]([https://your-portfolio-link.com](https://x.com/Suprabhat_3))
+
 > *Enjoy your algorithmic treadmill!* 🚴‍♂️  
 > _PS: Don’t forget to star the repo if you love feeling stuck._ ⭐
