@@ -27,10 +27,10 @@
 - **Side effects** may include: existential dread, coffee addiction, and random nightmares about stack overflows.
 
 ## Social Links
-- ## Links
-- [LinkedIn](https://www.linkedin.com/in/suprabhatt/)
-- [Portfolio]([https://your-portfolio-link.com](https://suprabhat.site/))
-- [Twitter/X]([https://your-portfolio-link.com](https://x.com/Suprabhat_3))
+- <a href="https://www.linkedin.com/in/suprabhatt" target="_blank">LinkedIn</a>
+- <a href="https://suprabhat.site" target="_blank">Portfolio</a>
+- <a href="https://x.com/Suprabhat_3" target="_blank">Twitter/X</a>
+
 
 > *Enjoy your algorithmic treadmill!* 🚴‍♂️  
 > _PS: Don’t forget to star the repo if you love feeling stuck._ ⭐
