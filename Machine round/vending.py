@@ -1,3 +1,4 @@
+# This is bacics use of if else statements with a cool project
 print("Choose the item from given list")
 print("1. Mango 20$\n2. Orange 20$\n3. Banana 15$")
 
@@ -55,4 +56,5 @@ elif order == 3:  # Banana
         else:
             print(f"You don't have enough money, here is your money back {money + money1}$")
     else:
+
         print("Here is your banana : 🍌")
