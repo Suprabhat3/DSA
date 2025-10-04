@@ -1,6 +1,6 @@
 # Suprabhat's DSA Repo™️
 
- > “Why bother showing off your real-world projects when they’d rather watch you juggle arrays and pointers for knowing your true potential” 🙄
+ > “Why bother showing off your real-world projects when they’d rather watch you juggle arrays and pointers for knowing your true potential”
 
 ## What’s Inside
 - **Arrays**: Shuffle, slice, repeat—because your favorite interviewers love 15 variations of the same question.
