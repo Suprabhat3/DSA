@@ -3,7 +3,7 @@
  > “Why bother showing off your real-world projects when they’d rather watch you juggle arrays and pointers for knowing your true potential”
 
 ## What’s Inside
-- **Arrays**: Shuffle, slice, repeat—because your favorite interviewers love 15 variations of the same question.
+- **Arrays**: Shuffle, slice, repeat, because your favorite interviewers love 15 variations of the same question.
 - **Linked Lists**: Singly, doubly, circular, because pointers are life, right?
 - **Trees & Graphs**: Practice until your brain turns into a red–black forest.
 - **Dynamic Programming**: Memorize 500 patterns so you can DP your way out of any “tricky” puzzle.
