@@ -1,4 +1,4 @@
-# Leet code question
+# Leet code question Rectangle Overlap
 class Solution(object):
     def isRectangleOverlap(self, rec1, rec2):
         """
