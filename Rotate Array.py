@@ -36,3 +36,7 @@ class Solution(object):
         nums[:k] = reversed(nums[:k])
         # reverse the remaining elements
         nums[k:] = reversed(nums[k:])
+
+
+
+#check updated code here
