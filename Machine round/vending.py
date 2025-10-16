@@ -1,4 +1,5 @@
 # This is bacics use of if else statements with a cool project
+# Vending Machine by Suprabhat
 print("Choose the item from given list")
 print("1. Mango 20$\n2. Orange 20$\n3. Banana 15$")
 
@@ -58,3 +59,4 @@ elif order == 3:  # Banana
     else:
 
         print("Here is your banana : 🍌")
+
