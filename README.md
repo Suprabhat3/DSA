@@ -11,7 +11,7 @@
 
 ## Why You’re Here
 1. **You heard DSA is the 🔑 to Big Tech.**  
-2. **You downloaded 12 courses, watched 300 lectures,** yet still can’t explain Quicksort in plain English.  
+2. **You downloaded 12 courses, watched 300 lectures,** yet still can’t explain Quicksort in plain English, me also.  
 3. **You’ll spend 4 hours solving “minimum path sum”** just to prove you love suffering.
 
 ## How to “Use” This Repo
