@@ -24,7 +24,7 @@
 
 ## Disclaimer
 - **This will not teach you real-world coding,** but you’ll be ready to impress recruiters with “optimized” O(n log n) solutions.  
-- **Side effects** may include: existential dread, coffee addiction, and random nightmares about stack overflows.
+- **Side effects** may include: existential dread, coffee addiction, and random nightmares about what is the better approach.
 
 ## Social Links
 - <a href="https://www.linkedin.com/in/suprabhatt" target="_blank">LinkedIn</a>
