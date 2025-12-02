@@ -1,3 +1,4 @@
+#count until obtain zero
 class Solution(object):
     def countOperations(self, num1, num2):
         """
